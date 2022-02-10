@@ -1,0 +1,24 @@
+.big{
+    height: 100vh;
+    width: 100vw;
+    display: flex;
+    justify-content: center;
+    align-items: center; 
+}
+.output{
+    position: relative;
+    width: 500px;
+    height: 200px;
+    padding: auto;
+    margin-right: auto;
+    margin-left: auto;
+    border-radius: 200px;
+    display: flex;
+    justify-content: center;
+    align-items: center; 
+    background-color: rgb(168, 197, 197);
+}
+.btn{
+    border-radius: 20px;
+    height: 30px;;
+}
